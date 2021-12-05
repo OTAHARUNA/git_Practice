@@ -10,7 +10,6 @@
 
 <body>
   <div>Hello</div>
-  <div>Good Morning</div>
 </body>
 
 </html>
